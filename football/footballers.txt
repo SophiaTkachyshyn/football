@@ -1,0 +1,12 @@
+11
+Barcelona Luis Suarez 25
+Barcelona Lionel Messi 43
+Barcelona Andres Iniesta 9
+RealMadrid Cristiano Ronaldo 48
+RealMadrid Gareth Bale 18
+RealMadrid Karim Benzema 22 
+RealMadrid James Rodriguez 17 
+AtleticoMadrid Antoine Griezmann 25
+AtleticoMadrid Fernando Torres 11
+AtleticoMadrid Mario Mandzukic 20
+AtleticoMadrid Andrew Koke 9 
